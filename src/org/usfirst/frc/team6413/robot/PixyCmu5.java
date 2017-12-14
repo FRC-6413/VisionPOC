@@ -21,6 +21,7 @@ import edu.wpi.first.wpilibj.Timer;
 /**
  * @author sbaron
  * @co-author ereese
+ * Code from https://bitbucket.org/Zelda_Programming/team-702-pixy-code/src
  *
  */
 public class PixyCmu5 implements AdvancedPIDSource
